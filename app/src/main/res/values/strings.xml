@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Muajjin</string>
+    <string name="title_activity_main">Muajjin</string>
+    <string name="package_name">com.eazyprinters.muajjin</string>
+    <string name="custom_url_scheme">com.eazyprinters.muajjin</string>
+</resources>
